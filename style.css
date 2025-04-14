@@ -1,0 +1,17 @@
+body{
+    background-color: gainsboro;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.sectionLinks{
+    color: black;
+    font-style: italic;
+}
+
+.footerLinks {
+    color: black;
+    font-weight: bold;
+    font-size: 12px;
+    text-decoration: none;
+  }
+
