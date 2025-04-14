@@ -1,0 +1,7 @@
+{
+    "editor.fontSize": 17,
+    "terminal.integrated.fontSize": 15,
+    "window.zoomLevel": -0.5,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "livePreview.defaultPreviewPath": "/HTML/index.html",
+}
